@@ -27,6 +27,6 @@ What's your last name? Yeme
 What letter grade do you deserve? B  
 What's your age? 22
 Name: Yeme,Betty Sue  
-Grade: C  吧 
+Grade: C   
 Age: 22  
 注意，该程序应该接受的名字包含多个单词。另外，程序将向下调整成绩，即向上调一个字母。假设用户请求A、B或C,所以不必担心D和F之间的空档。
